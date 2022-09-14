@@ -1,4 +1,4 @@
-### Hi there 👋
+[![GrantChristopherson's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrantChristopherson&count_private=true&theme=react)](https://github.com/GrantChristopherson/github-readme-stats)
 
 <!--
 **GrantChristopherson/GrantChristopherson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
