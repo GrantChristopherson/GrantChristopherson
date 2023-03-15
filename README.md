@@ -1,8 +1,7 @@
 [![GrantChristopherson's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrantChristopherson&count_private=true&theme=react)](https://github.com/GrantChristopherson/github-readme-stats)
 
-Full Stack Software Engineer, new graduate of App Academy.  Excited to expand upon my knowledge within the field.   Experienced with both Javascript and Python, Express and Flask, not to mention many other technologies.  DSnA and cybersecurity are areas of interest.  
+Hello, I’m a San Francisco-based full-stack software engineer with a passion for creating dynamic web applications.   I have experience working with JavaScript, Python, and frameworks like Express and Flask.   With skills in these technologies, I've created many robust and scalable projects.
 
-Have lived in the Mission / Castro for more than 20 years and ready for this new chapter in my life.  Plant geek, working on my tropical shade garden in my spare time... not to mention avid live music enthusiast. 
-Reach out if interested in learning more about me!
+When not coding, I can be found tending to my tropical shade garden or going to concerts happening around the Bay Area.   I find these hobbies are a great way to unwind and recharge my creative batteries.   I’m a firm believer that a well-rounded life helps me bring unique perspectives to my work, leading to more innovative solutions.  Reach out if interested in learning more about me!
 
-oh.grant.christopherson@gmail.com
+oh.grant.christopherson@gmail.com 
